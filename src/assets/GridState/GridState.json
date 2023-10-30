@@ -1,0 +1,111 @@
+[ 
+  
+  {
+    "userid": "",
+    "Module": "",
+    "GridID": "",
+    "ViewID":"",
+    "viewname": "",
+    "isDefault": true,
+    "width": 850,
+    "height": 400,
+    "pagenum": 0,
+    "pagesize": 10,
+    "pagesizeoptions": ["5", "10", "20"],
+    "selectedcells": [],
+    "sortcolumn": "username",
+    "sortdirection": "asc",
+    "filters": {
+      "usernameoperator": "and",
+      "filtervalue0": "sh",
+      "filtercondition0": "CONTAINS",
+      "filteroperator0": 1,
+      "filterdatafield0": "username",
+      "filtertype0": "stringfilter",
+      "filtervalue1": "",
+      "filtercondition1": "CONTAINS",
+      "filteroperator1": 1,
+      "filterdatafield1": "username",
+      "filtertype1": "stringfilter",
+      "filterscount": 2
+    },
+    "groups": ["accountName",  "accountNumber"],
+    
+   "columns": {
+      "accountName": {
+        "width": "",
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "accountName",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 0
+      },
+      "accountNumber": {
+        "width": 172,
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "accountNumber",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 1
+      },
+      "organizationNumber": {
+        "width": 86,
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "organizationNumber",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 2
+      },
+      "legacyNumber": {
+        "width": 217,
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "legacyNumber",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 3
+      },
+      "accountOwner": {
+        "width": 217,
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "accountOwner",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 3
+      },
+      "territory": {
+        "width": 217,
+        "hidden": false,
+        "pinned": false,
+        "groupable": true,
+        "resizable": true,
+        "draggable": true,
+        "text": "territory",
+        "align": "left",
+        "cellsalign": "left",
+        "index": 3
+      }
+    }
+  }
+  
+  
+ ]

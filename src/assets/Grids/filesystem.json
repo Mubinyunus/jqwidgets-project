@@ -1,0 +1,237 @@
+[
+    {
+        "Name": "TS USA",
+        "Status": "Active",
+        "ID": "BT21",
+        "children": [
+            {
+                "Name": "TS Mattress Firm",
+                "Status": "Active",
+                "ID": "BT11",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "TS Emarketplace",
+                "Status": "Active",
+                "ID": "BT15",
+                "children": [
+                    {
+                        "Name": "TS Emerging",
+                        "Status": "Active",
+                        "ID": "BT14"
+                    },
+                    {
+                        "Name": "TS Alternative",
+                        "Status": "Active",
+                        "ID": "BT20"
+                    }
+                ]
+            },
+            {
+                "Name": "TS Department Stores",
+                "Status": "Active",
+                "ID": "BT16",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "TS Costco",
+                "Status": "Active",
+                "ID": "BT17",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "TS Buying Groups",
+                "Status": "Active",
+                "ID": "BT19",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "TS Hospitality",
+                "Status": "Active",
+                "ID": "BT22",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "West Division",
+                "Status": "Active",
+                "ID": "BT23",
+                "children": [
+                    {
+                        "Name": "TS California",
+                        "Status": "Active",
+                        "ID": "BT18"
+                    },
+                    {
+                        "Name": "TS Texas",
+                        "Status": "Active",
+                        "ID": "BT2"
+                    },
+                    {
+                        "Name": "TS Texas6000",
+                        "Status": "Active",
+                        "ID": "BT49"
+                    },
+                    {
+                        "Name": "TS Texas600",
+                        "Status": "Active",
+                        "ID": "BT58"
+                    },
+                    {
+                        "Name": "TS Texas1",
+                        "Status": "Active",
+                        "ID": "BT42"
+                    },
+                    {
+                        "Name": "TS INDIA",
+                        "Status": "Active",
+                        "ID": "BT59"
+                    },
+                    {
+                        "Name": "TS Texas7",
+                        "Status": "Active",
+                        "ID": "BT64"
+                    },
+                    {
+                        "Name": "TS Texas8",
+                        "Status": "Active",
+                        "ID": "BT65"
+                    },
+                    {
+                        "Name": "TS Harizona",
+                        "Status": "Active",
+                        "ID": "BT67"
+                    }
+                ]
+            },
+            {
+                "Name": "North Division",
+                "Status": "Active",
+                "ID": "BT24",
+                "children": [
+                    {
+                        "Name": "TS Great Plains",
+                        "Status": "Active",
+                        "ID": "BT12"
+                    },
+                    {
+                        "Name": "TS Great Lakes",
+                        "Status": "Active",
+                        "ID": "BT13"
+                    },
+                    {
+                        "Name": "TS North Atlantic",
+                        "Status": "Active",
+                        "ID": "BT6"
+                    },
+                    {
+                        "Name": "TS North",
+                        "Status": "Active",
+                        "ID": "BT7"
+                    }
+                ]
+            },
+            {
+                "Name": "South Division",
+                "Status": "Active",
+                "ID": "BT25",
+                "children": [
+                    {
+                        "Name": "TS Mid Atlantic South",
+                        "Status": "Active",
+                        "ID": "BT10"
+                    },
+                    {
+                        "Name": "TS East",
+                        "Status": "Active",
+                        "ID": "BT26"
+                    },
+                    {
+                        "Name": "TS SouthEast",
+                        "Status": "Active",
+                        "ID": "BT3"
+                    },
+                    {
+                        "Name": "TS Texas5",
+                        "Status": "Active",
+                        "ID": "BT32"
+                    },
+                    {
+                        "Name": "New Jersey",
+                        "Status": "Active",
+                        "ID": "BT36"
+                    },
+                    {
+                        "Name": "TS South Central",
+                        "Status": "Active",
+                        "ID": "BT4"
+                    },
+                    {
+                        "Name": "TS South",
+                        "Status": "Active",
+                        "ID": "BT5"
+                    },
+                    {
+                        "Name": "TS Mid Central",
+                        "Status": "Active",
+                        "ID": "BT9"
+                    },
+                    {
+                        "Name": "TS Mid Atlantic South",
+                        "Status": "Active",
+                        "ID": "BT43"
+                    },
+                    {
+                        "Name": " TS Emerging",
+                        "Status": "Active",
+                        "ID": "BT50"
+                    },
+                    {
+                        "Name": "TS Emerging1",
+                        "Status": "Active",
+                        "ID": "BT51"
+                    },
+                    {
+                        "Name": "TS Texas9",
+                        "Status": "Active",
+                        "ID": "BT66"
+                    }
+                ]
+            },
+            {
+                "Name": "TS Mountain",
+                "Status": "Active",
+                "ID": "BT8",
+                "children": [
+                    {}
+                ]
+            },
+            {
+                "Name": "2TS Emerging",
+                "Status": "Active",
+                "ID": "BT52",
+                "children": [
+                    {
+                        "Name": "3TS Emerging",
+                        "Status": "Active",
+                        "ID": "BT62"
+                    },
+                    {
+                        "Name": "4TS Emerging",
+                        "Status": "Active",
+                        "ID": "BT63"
+                    }
+                ]
+            }
+        ]
+    }
+]
